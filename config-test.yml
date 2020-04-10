@@ -1,1 +1,2 @@
-
+config:
+  info: master branch,springcloud-configs/config-test.yml version=1
