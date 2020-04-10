@@ -1,1 +1,2 @@
-
+config:
+  info: master branch,springcloud-configs/config-dev.tml version=1
